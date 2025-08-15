@@ -1,5 +1,5 @@
 import React from "react";
-const profileImg = "/profile.png";
+const profileImg = "https://raw.githubusercontent.com/qwer4366/ss/main/components/pic.png";
 
 const ProfileCard: React.FC = () => {
 	return (
