@@ -1,5 +1,5 @@
 import React from "react";
-import profileImg from "./تصميم بدون عنوان.png";
+const profileImg = "/profile.png";
 
 const ProfileCard: React.FC = () => {
 	return (
